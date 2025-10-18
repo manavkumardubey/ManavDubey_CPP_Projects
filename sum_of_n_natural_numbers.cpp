@@ -5,7 +5,7 @@ int main()
     
     cin>>n;
     s=(n*(n+1))/2;
-    cout<<"sum is "<<s;
+    cout<<"sum is"<<s;
     return 0;
 
 
